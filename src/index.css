@@ -1,0 +1,6 @@
+.app-shell {
+	--page-background: #0b1f4d;
+	min-height: 100vh;
+	background-color: var(--page-background);
+	color: #f3f5f4;
+}
